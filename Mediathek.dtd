@@ -1,0 +1,9 @@
+<!ELEMENT Mediathek (film)>
+    <!ELEMENT film (infos+)>
+        <!ELEMENT infos (titel, jahr, produktionsland, laenge, regie, cast)>
+          <!ELEMENT titel (#PCDATA)>
+          <!ELEMENT jahr (#PCDATA)>
+          <!ELEMENT produktionsland (#PCDATA)>
+          <!ELEMENT laenge (#PCDATA)>
+          <!ELEMENT regie (#PCDATA)>
+          <!ELEMENT cast (#PCDATA)>
