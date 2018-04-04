@@ -1,6 +1,0 @@
-eins 2 2871
-eins 1 1736
-drei 4 1937
-fünf 7 1673
-zwei 3 1528
-vier 1 5826
