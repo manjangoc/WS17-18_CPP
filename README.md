@@ -3,7 +3,7 @@ Seminararbeit Teil 1 CPP
 
 Im folgenden wurde die Stufe I der Seminararbeit C++ erfüllt. 
 Dabei wurden folgende links als Orientierung genutzt:
-https://gist.github.com/hkicppws1516/a4385f388b09b7b32f90f001640887c2
+https://gist.github.com/hkicppws1516/a4385f388b09b7b32f90f001640887c2 und
 http://hki.uni-koeln.de/tag/7-sitzung-06-12-16/
 
 Dabei wird eine Datei geparsed, mit einer anderen verknüpft und dann in eine neue geschrieben.
