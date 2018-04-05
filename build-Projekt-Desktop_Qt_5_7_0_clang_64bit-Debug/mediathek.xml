@@ -1,0 +1,42 @@
+<Mediathek>
+        <infos xml:id="123">
+            <titel>Like Crazy</titel>
+            <jahr>2011</jahr>
+            <produktionsland>USA</produktionsland>
+            <laenge>86 min</laenge>
+            <regie>Drake Doremus</regie>
+            <cast>Anton Yelchin, Felicity Jones</cast>
+        </infos>
+        <infos xml:id="678">
+            <titel>10 Things I Hate About You</titel>
+            <jahr>1999</jahr>
+            <produktionsland>USA</produktionsland>
+            <laenge>97 min</laenge>
+            <regie>Gil Junger</regie>
+            <cast>Heath Ledger, Julia Stiles</cast>
+        </infos>
+        <infos xml:id="564">
+            <titel>Submarine</titel>
+            <jahr>2010</jahr>
+            <produktionsland>USA, UK</produktionsland>
+            <laenge>97 min</laenge>
+            <regie>Richard Ayoade</regie>
+            <cast>Craig Roberts, Yasmin Paige</cast>
+        </infos>
+        <infos xml:id="287">
+            <titel>Victoria</titel>
+            <jahr>2015</jahr>
+            <produktionsland>Deutschland</produktionsland>
+            <laenge>140 min</laenge>
+            <regie>Sebastian Schipper</regie>
+            <cast>Laia Costa, Frederick Lau</cast>
+        </infos>
+        <infos xml:id="922">
+            <titel>Breakfast at Tiffany's</titel>
+            <jahr>1961</jahr>
+            <produktionsland>USA</produktionsland>
+            <laenge>110 min</laenge>
+            <regie>Blake Edwards</regie>
+            <cast>Audrey Hepburn, George Peppard</cast>
+        </infos>
+</Mediathek>

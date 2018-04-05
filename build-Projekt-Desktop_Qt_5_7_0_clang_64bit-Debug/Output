@@ -1,0 +1,70 @@
+<Mediathek>
+    <infos id=123>
+        <meta>
+            <titel>Like Crazy</titel>
+            <jahr>2011</jahr>
+            <produktionsland>USA</produktionsland>
+            <laenge>86 min</laenge>
+            <regie>Drake Doremus</regie>
+            <cast>Anton Yelchin, Felicity Jones</cast>
+        </meta>
+        <stock>
+            <package place="A1">1736</package>
+        </stock>
+    </infos>
+    <infos id=678>
+        <meta>
+            <titel>10 Things I Hate About You</titel>
+            <jahr>1999</jahr>
+            <produktionsland>USA</produktionsland>
+            <laenge>97 min</laenge>
+            <regie>Gil Junger</regie>
+            <cast>Heath Ledger, Julia Stiles</cast>
+        </meta>
+        <stock>
+            <package place="A1">2871</package>
+            <package place="A3">1937</package>
+            <package place="A24">1673</package>
+        </stock>
+    </infos>
+    <infos id=564>
+        <meta>
+            <titel>Submarine</titel>
+            <jahr>2010</jahr>
+            <produktionsland>USA, UK</produktionsland>
+            <laenge>97 min</laenge>
+            <regie>Richard Ayoade</regie>
+            <cast>Craig Roberts, Yasmin Paige</cast>
+        </meta>
+        <stock>
+            <package place="A12">5826</package>
+            <package place="A44">2</package>
+        </stock>
+    </infos>
+    <infos id=287>
+        <meta>
+            <titel>Victoria</titel>
+            <jahr>2015</jahr>
+            <produktionsland>Deutschland</produktionsland>
+            <laenge>140 min</laenge>
+            <regie>Sebastian Schipper</regie>
+            <cast>Laia Costa, Frederick Lau</cast>
+        </meta>
+        <stock>
+            <package place="A1">1528</package>
+        </stock>
+    </infos>
+    <infos id=922>
+        <meta>
+            <titel>Breakfast at Tiffany's</titel>
+            <jahr>1961</jahr>
+            <produktionsland>USA</produktionsland>
+            <laenge>110 min</laenge>
+            <regie>Blake Edwards</regie>
+            <cast>Audrey Hepburn, George Peppard</cast>
+        </meta>
+        <stock>
+            <package place="A56">26</package>
+        </stock>
+    </infos>
+</Mediathek>
